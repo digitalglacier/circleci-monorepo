@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	log.Info("Hello world! DG new")
+	log.Info("Hello world! DG newish")
 }
